@@ -1,0 +1,59 @@
+*{
+padding: 0;
+margin:0;
+
+}
+body{
+background: url(lon.png.jpg) no-repeat center center fixed;
+background-size: cover;
+}
+.container{
+    
+top: 35%;
+left: 40%;
+position:absolute;}
+.container h1{
+    text-align: left;
+    font-size: 40px;
+    border-bottom: 1px solid purple;
+    margin: 40px 5px;
+    margin-top: 10px;
+    color: rgb(243, 242, 242);
+}
+.box{
+    text-align: left;
+    margin: 5px 5px;
+    background: none;
+    
+}
+.box input{
+    
+    border-bottom: 1px solid purple;
+    
+    background: none;
+    color: white;
+    height: 25px;
+    width: 300px;
+    margin: 4px;
+}
+.box i{
+    text-align: center;
+color: white;
+    margin: 2px 2px;
+    
+}
+.btn{
+ color:rgb(243, 242, 242);
+ font-size: 18px;
+height: 30px;
+width: 90px;
+background: none;
+margin: 9px 3px;
+border: 2px solid purple;
+border-radius: 10px;
+}
+footer{
+    margin-top: 160px;
+    color: honeydew;
+    font-size: 25px;
+}
